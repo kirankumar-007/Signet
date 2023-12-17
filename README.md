@@ -1,2 +1,2 @@
-# Signet
+# Skynet
 Online Electronics Store
